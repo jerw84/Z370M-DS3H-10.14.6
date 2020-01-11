@@ -669,7 +669,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02928600GULNV9CB</string>
+			<string>MLB KEY</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -677,9 +677,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z28YSJV3Q</string>
+			<string>SYSTEMSERIALNUMBER</string>
 			<key>SystemUUID</key>
-			<string>3F2B0077-F986-4911-B33E-64BCCB1B9BCD</string>
+			<string>SYSTEMUUID</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
